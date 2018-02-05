@@ -1,6 +1,6 @@
 # void 0 和undefined的区别
 
-先在一个js在线压缩的网站https://skalman.github.io/UglifyJS-online/操作如下：
+先在一个[js在线压缩的网站](https://skalman.github.io/UglifyJS-online/)操作如下：
 
 ```javascript
 console.log(a === undefined); // source code
